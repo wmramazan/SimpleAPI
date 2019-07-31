@@ -1,0 +1,107 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 2,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Imagine the impossibilities",
+            "image": "http://adnagu.com/uploads/headline/7106.jpg",
+            "date": 1563877285275
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 4,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 5,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 6,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 7,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 8,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 9,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        },
+        {
+            "id": 10,
+            "user": {
+                "name": "Ramazan Vapurcu",
+                "nickname": "wmramazan",
+                "profile_image": "https://avatars3.githubusercontent.com/u/20921476?s=460&v=4"
+            },
+            "post": "Hi everyone!",
+            "date": 1563877285275
+        }
+    ],
+    "success": true,
+    "message": "You have new posts."
+}

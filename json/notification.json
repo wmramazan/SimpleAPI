@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "New message!",
+            "description": "wmramazan: Hi",
+            "date": 1563877285275
+        },
+        {
+            "id": 2,
+            "title": "New like!",
+            "description": "wmramazan has been liked your post.",
+            "date": 1563877985275
+        },
+        {
+            "id": 3,
+            "title": "New message!",
+            "description": "wmramazan: How you doin'",
+            "date": 1563879285275
+        }
+    ],
+    "success": true
+}
